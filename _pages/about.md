@@ -61,16 +61,16 @@ My main focus is on cutting-edge artificial intelligence technologies such as la
 
 # 🔬 Internship Experience
 
-* **Eastern Institute of Technology (EIT)** | *Large Language Model Research Intern* (Sept 2025 – Nov 2025)
+* **Eastern Institute of Technology (EIT)** \| *Large Language Model Research Intern* (Sept 2025 – Nov 2025)
     * Research Focus: Efficient inference for LLMs under Prof. Xiaoyu Shen.
     * Achievement: First author of a research paper on interpretability of reasoning.
 
-* **Gongdao Network Technology** | *LLM Algorithm Intern* (Apr 2025 – Sept 2025)
+* **Gongdao Network Technology** \| *LLM Algorithm Intern* (Apr 2025 – Sept 2025)
     * Interpretability: Studied spoken text representation patterns across BERT and Decoder-only architectures.
     * Audio Engineering: Built automated audio processing pipelines and developed pitch recognition for TTS error correction.
     * NLP Optimization: Fine-tuned BGE embedding models for RAG and implemented model distillation engineering.
 
-* **Shenzhen Institute of Advanced Technology (SIAT), CAS** | *Research Intern* (Sept 2024 – Apr 2025)
+* **Shenzhen Institute of Advanced Technology (SIAT), CAS** \| *Research Intern* (Sept 2024 – Apr 2025)
     * Collaboration: Contributed to multiple LLM research initiatives within Prof. Min Yang's team.
     * AI Safety: Researched Red Teaming and jailbreak attacks for LLMs and Multimodal models (ARR under review).
     * Key Publication: **First Author** of a paper on LLM distillation detection, accepted by **ACL 2025 (Main Conference)**.
