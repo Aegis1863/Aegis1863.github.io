@@ -25,7 +25,7 @@ My main focus is on cutting-edge artificial intelligence technologies such as la
     * **Sunbowen Lee**, Junting Zhou, Chang Ao, Kaige Li, Xeron Du, Sirui He, Haihong Wu, Tianci Liu, Jiaheng Liu, Hamid Alinejad-Rokny, et al.
     * 2025
 
-* **[xjailbreak: Representation space guided reinforcement learning for interpretable llm jailbreaking](https://arxiv.org/abs/2501.16727)**
+* **[xjailbreak: Representation space guided reinforcement learning for interpretable LLMs jailbreaking](https://arxiv.org/abs/2501.16727)**
     * *arXiv preprint arXiv:2501.16727*
     * **Sunbowen Lee**, Shiwen Ni, Chi Wei, Shuaimin Li, Liyang Fan, Ahmadreza Argha, Hamid Alinejad-Rokny, Ruifeng Xu, Yicheng Gong, Min Yang
     * 2025
@@ -58,3 +58,19 @@ My main focus is on cutting-edge artificial intelligence technologies such as la
     * *arXiv preprint arXiv:2509.10781*
     * Xiaokang Li, Yicheng Gong, Dinghao Zou, Xin Cao, **Sunbowen Lee**
     * 2025
+
+# 🔬 Internship Experience
+
+* **Eastern Institute of Technology (EIT)** | *Large Language Model Research Intern* (Sept 2025 – Nov 2025)
+    * Research Focus: Efficient inference for LLMs under Prof. Xiaoyu Shen.
+    * Achievement: First author of a research paper on interpretability of reasoning.
+
+* **Gongdao Network Technology** | *LLM Algorithm Intern* (Apr 2025 – Sept 2025)
+    * Interpretability: Studied spoken text representation patterns across BERT and Decoder-only architectures.
+    * Audio Engineering: Built automated audio processing pipelines and developed pitch recognition for TTS error correction.
+    * NLP Optimization: Fine-tuned BGE embedding models for RAG and implemented model distillation engineering.
+
+* **Shenzhen Institute of Advanced Technology (SIAT), CAS** | *Research Intern* (Sept 2024 – Apr 2025)
+    * Collaboration: Contributed to multiple LLM research initiatives within Prof. Min Yang's team.
+    * AI Safety: Researched Red Teaming and jailbreak attacks for LLMs and Multimodal models (ARR under review).
+    * Key Publication: **First Author** of a paper on LLM distillation detection, accepted by **ACL 2025 (Main Conference)**.
