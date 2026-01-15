@@ -42,7 +42,7 @@ My main focus is on cutting-edge artificial intelligence technologies such as la
 
 ---
 
-## 👥 Co-author
+## 👥 Collaboration
 
 * **[Evaluating Parameter Efficient Methods for RLVR](https://arxiv.org/abs/2512.23165v2)**
     * *arXiv preprint arXiv:2512.23165*
